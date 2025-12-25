@@ -286,13 +286,6 @@ npm run lint
 
 This project is developed for educational purposes as part of the Digital Forensics Lab (CY334L) course.
 
-## Team
-
-- Muhammad Mueez (231276)
-- Alyan Gulzar (231304)
-- Saad Bin Arif (231310)
-- BSCYS-F23A
-
 **Instructor**: Mr. Abdullah Farooq
 
 ## Support
